@@ -9,7 +9,7 @@ Understand Python interpreter selection, isolated dependencies, project roots, a
 | Day   | Focus                                                                                             | Status      |
 | ----- | ------------------------------------------------------------------------------------------------- | ----------- |
 | Day 1 | Python, Git, editor verification, project structure, virtual environment, and setup documentation | Completed   |
-| Day 2 | Python fundamentals and input validation exercises                                                | Not Started |
+| Day 2 | Python fundamentals and input validation exercises                                                | Completed   |
 | Day 3 | Functions, modules, and service-layer exercises                                                   | Not Started |
 | Day 4 | Type hints, configuration, and Git history                                                        | Not Started |
 | Day 5 | Review, independent practice, and Poetry vs. virtual environment comparison                       | Not Started |
@@ -52,10 +52,10 @@ Practice Python fundamentals and input validation.
 
 ### Tasks
 
-- [ ] Practice variables, data types, conditions, and loops.
-- [ ] Work with strings, lists, and dictionaries.
-- [ ] Write input validation exercises.
-- [ ] Test valid and invalid inputs.
+- [x] Practice variables, data types, conditions, and loops.
+- [x] Work with strings, lists, dictionaries and decorator.
+- [x] Write input validation exercises.
+- [x] Test valid and invalid inputs.
 
 ### Expected Deliverables
 

@@ -1,3 +1,6 @@
+# Automates weekly and daily directory creation while preserving 
+# content from the previous day/week.
+
 #!/bin/bash
 echo "Enter Week Number for TODAY (e.g., 01):"
 read week

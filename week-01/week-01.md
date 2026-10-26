@@ -70,11 +70,11 @@ Organize Python code using reusable functions and modules.
 
 ### Tasks
 
-- [ ] Practice functions, parameters, and return values.
-- [ ] Learn imports and modules.
-- [ ] Separate application logic into a service module.
-- [ ] Practice exception handling.
-- [ ] Write basic tests for service functions.
+- [x] Practice functions, parameters, and return values.
+- [x] Learn imports and modules.
+- [x] Separate application logic into a service module.
+- [x] Practice exception handling.
+- [x] Write basic tests for service functions.
 
 ### Expected Deliverables
 
@@ -90,11 +90,11 @@ Improve code readability and maintain a reproducible development setup.
 
 ### Tasks
 
-- [ ] Add type hints to functions.
-- [ ] Practice basic configuration management.
-- [ ] Review Git status, diff, add, commit, and log.
-- [ ] Verify dependency installation using `requirements.txt`.
-- [ ] Review the project structure and documentation.
+- [x] Add type hints to functions.
+- [x] Practice basic configuration management.
+- [x] Review Git status, diff, add, commit, and log.
+- [x] Verify dependency installation using `requirements.txt`.
+- [x] Review the project structure and documentation.
 
 ### Expected Deliverables
 
@@ -110,11 +110,11 @@ Review the week's concepts and evaluate understanding.
 
 ### Tasks
 
-- [ ] Complete a small Python exercise independently.
-- [ ] Review the week's code and tests.
-- [ ] Compare Poetry with a standard virtual environment and `pip`.
-- [ ] Document one trade-off of each approach.
-- [ ] Review weekly deliverables and Git history.
+- [x] Complete a small Python exercise independently.
+- [x] Review the week's code and tests.
+- [x] Compare Poetry with a standard virtual environment and `pip`.
+- [x] Document one trade-off of each approach.
+- [x] Review weekly deliverables and Git history.
 
 ### Expected Deliverables
 
@@ -124,16 +124,16 @@ Review the week's concepts and evaluate understanding.
 
 ## Weekly Deliverables
 
-| Deliverable                                    | Status  |
-| ---------------------------------------------- | ------- |
-| Working Python development environment         | Pending |
-| Organized project repository                   | Pending |
-| Setup and dependency installation instructions | Pending |
-| Python validation exercises                    | Pending |
-| Reusable functions and service module          | Pending |
-| Basic automated tests                          | Pending |
-| Poetry vs. virtual environment comparison      | Pending |
-| Readable Git commit history                    | Pending |
+| Deliverable                                    | Status    |
+| ---------------------------------------------- | --------- |
+| Working Python development environment         | Completed |
+| Organized project repository                   | Completed |
+| Setup and dependency installation instructions | Completed |
+| Python validation exercises                    | Completed |
+| Reusable functions and service module          | Completed |
+| Basic automated tests                          | Completed |
+| Poetry vs. virtual environment comparison      | Completed |
+| Readable Git commit history                    | Completed |
 
 ## Weekly Evaluation
 
